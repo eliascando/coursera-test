@@ -1,11 +1,14 @@
 .section1 {
   background-color: green;
 }
-.sigueme {
-
+h5 {
+  font-size:150% ;
+  display: inline;
+  text-align: justify;
 }
-.redessociales {
-  list-style: none;
+
+.sigueme {
+    list-style: none;
 }
 a:link, a:visited {
     text-decoration: none;
@@ -15,8 +18,13 @@ a:link, a:visited {
     width: 150px;
     text-align: center;
     margin-bottom: 1px;
-  }
-  a:hover, a:active {
+}
+a:hover, a:active {
     background-color: #151515;
     color: #FFFFFF;
+}
   }
+.footer {
+    font-style: italic;
+    font-size: 17px;
+}
