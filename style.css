@@ -1,11 +1,11 @@
 html {
-  background-color: #000000;
+  background: url("iconos/repeat.jpg");
 }
 * {
   box-sizing: border-box;
 }
 nav {
-  background-color: #000000;
+  background: #000000;
   color: #FFFFFF;
   display: block;
   text-align: center;
@@ -21,7 +21,7 @@ h1 {
   background-color: #848484;
 }
 .section1 {
-  background-color: #A4A4A4;
+  background: #A4A4A4 url("repeat.jpg");
   margin: 0;
   padding: 0;
 }
