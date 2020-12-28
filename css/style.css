@@ -1,0 +1,83 @@
+html {
+  background: url("iconos/repeat.jpg");
+}
+* {
+  box-sizing: border-box;
+}
+nav {
+  background: #000000;
+  color: #FFFFFF;
+  display: block;
+  text-align: center;
+}
+nav a:link, a:visited {
+  text-decoration: none;
+  font-size: 140%;
+  background-color: #424242;
+  color: #FFFFFF;
+  display: inline;
+}
+h1 {
+  background-color: #848484;
+  text-align: center;
+}
+.section1 {
+  background: #A4A4A4;
+  text-align: center;
+  height: 50%;
+  margin: 0;
+  padding: 0;
+}
+.section2 {
+  background-color: #BDBDBD;
+}
+.unordered {
+  height: 30%;
+  float: left;
+}
+.ordered {
+position: relative;
+
+}
+.section3 {
+  background-color: #BDBDBD;
+  text-align: center;
+  clear: both;
+}
+.redessociales {
+  background-color: #BDBDBD;
+  text-align: center;
+}
+h5 {
+  font-size:150% ;
+  display: inline;
+  text-align: justify;
+}
+.sigueme {
+    list-style: none;
+    text-align: center;
+}
+.redessociales a {
+  text-align:center;
+}
+.redessociales a:link, a:visited {
+    text-decoration: none;
+    background-color: #424242;
+    color: #FFFFFF;
+    display: inline;
+    width: 150px;
+    text-align: center;
+    margin-bottom: 1px;
+}
+.redessociales a:hover, a:active {
+    background-color: #151515;
+    color: #FFFFFF;
+}
+footer {
+    background-color: #A4A4A4;
+    font-size: 17px;
+    text-align: center;
+}
+q {
+  font-style: italic;
+}
